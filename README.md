@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yuvraj</h1>
+<h1 align="center">Hi 👋, I'm Yuvraj Ithape</h1>
 <h3 align="center">A passionate software developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajithape&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajithape" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajithape" alt="yuvrajithape" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -12,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuvrajithape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvrajithape" height="30" width="40" /></a>
+<a href="https://instagram.com/yuvrajithape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvrajithape" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yuvrajithape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajithape" height="30" width="40" /></a>
 </p>
 
