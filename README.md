@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajithape&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajithape" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m **MERN-Stack** Developer 
 
 - 📫 How to reach me **yuvrajithape9696@gmail.com**
 
